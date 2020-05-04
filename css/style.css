@@ -450,3 +450,61 @@ body {
   color: #504e70;
   margin: 0;
 }
+
+/* Services Section */
+.services .container {
+  padding-bottom: 40px;
+}
+.services .service-item {
+  -ms-flex: 0 0 33.33%;
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+  margin-bottom: 30px;
+  display: -ms-flexbox;
+  display: flex;
+}
+.services .service-item .service-item-inner {
+  background-color: #fdf9ff;
+  border: 1px solid #d4d4e3;
+  border-radius: 10px;
+  padding: 30px 15px;
+  text-align: center;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.services .service-item .service-item-inner:hover {
+  -webkit-box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+  box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+}
+.services .service-item .service-item-inner .icon {
+  height: 60px;
+  width: 60px;
+  display: block;
+  margin: 0 auto 30px;
+  text-align: center;
+  border-radius: 50%;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.services .service-item .service-item-inner .icon .fa {
+  line-height: 60px;
+  font-size: 40px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.services .service-item .service-item-inner:hover .icon .fa {
+  font-size: 25px;
+  color: #fff;
+}
+.services .service-item .service-item-inner h4 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #302e4d;
+  font-weight: 700;
+}
+.services .service-item .service-item-inner p {
+  font-size: 16px;
+  color: #504e70;
+  line-height: 25px;
+  margin: 0;
+}
