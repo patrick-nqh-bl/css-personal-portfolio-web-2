@@ -15,7 +15,7 @@
 - Blog section
   > https://www.youtube.com/watch?v=pbaIIMhR2lc
 - Contact section
-  >
+  > https://www.youtube.com/watch?v=mym-SlY6NqY
 - Responsive
   >
 - Style Switcher, Body skin: Light, Dark
