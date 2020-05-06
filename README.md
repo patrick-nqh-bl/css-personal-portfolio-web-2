@@ -22,3 +22,6 @@
   > https://www.youtube.com/watch?v=_pdXKTHBPNs
 - Create link to sections, hide and show sidebar, page loader
   > https://www.youtube.com/watch?v=nA19g6G7aGI
+
+2. Link deployed on Netlify
+   > https://priceless-panini-f3563d.netlify.app/
