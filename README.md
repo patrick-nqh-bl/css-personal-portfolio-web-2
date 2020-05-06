@@ -11,4 +11,14 @@
 - Services section:
   > https://www.youtube.com/watch?v=n9_tqQqPIrY
 - Portfolio section
+  > https://www.youtube.com/watch?v=Ygz7s0lyRSg
+- Blog section
+  > https://www.youtube.com/watch?v=pbaIIMhR2lc
+- Contact section
+  >
+- Responsive
+  >
+- Style Switcher, Body skin: Light, Dark
+  >
+- Create link to sections, hide and show sidebar, page loader
   >
