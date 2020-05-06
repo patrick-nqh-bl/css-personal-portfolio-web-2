@@ -17,7 +17,7 @@
 - Contact section
   > https://www.youtube.com/watch?v=mym-SlY6NqY
 - Responsive
-  >
+  > https://www.youtube.com/watch?v=c_5aAQXDtp4
 - Style Switcher, Body skin: Light, Dark
   >
 - Create link to sections, hide and show sidebar, page loader
