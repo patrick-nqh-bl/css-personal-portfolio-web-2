@@ -19,6 +19,6 @@
 - Responsive
   > https://www.youtube.com/watch?v=c_5aAQXDtp4
 - Style Switcher, Body skin: Light, Dark
-  >
+  > https://www.youtube.com/watch?v=_pdXKTHBPNs
 - Create link to sections, hide and show sidebar, page loader
-  >
+  > https://www.youtube.com/watch?v=nA19g6G7aGI
